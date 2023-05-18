@@ -1,4 +1,4 @@
-import{_ as o,b as _,a as s}from"./articleContent.98351f80.js";import{_ as m}from"./title.3ddb9719.js";import{a as i,o as b,c,w as p,f as a}from"./entry.0cdaf49b.js";import"./useAsset.9593b5d8.js";import"./mail_red.3563fc5b.js";const l={};function u(g,x){const t=_,r=s,e=m,n=o;return b(),c(n,{type:"star",title:"以星辰航海<br>紅頭嶼的<br>部落傳說",name:`
+import{_ as o,b as _,a as s}from"./articleContent.5c5ec105.js";import{_ as m}from"./title.629f1161.js";import{a as i,o as b,c,w as p,f as a}from"./entry.00dab148.js";import"./useAsset.abfb05f1.js";import"./mail_red.57a377c8.js";const l={};function u(g,x){const t=_,r=s,e=m,n=o;return b(),c(n,{type:"star",title:"以星辰航海<br>紅頭嶼的<br>部落傳說",name:`
       文、圖：夏曼‧藍波安
     `},{default:p(()=>[a(t,{text:`
     我部落伊姆洛庫，現稱之紅頭，部落的人遷移到現在的部落之前的部落稱之立馬西克（Jimasik），意義是水資源豐沛的小平原。不知是四百，還是五百年前，立馬西克有個家族稱之左邊家族，這個家族有位耆老叫左撇子（syapen Mawuzi）。<br><br>

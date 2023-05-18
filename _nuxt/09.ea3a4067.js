@@ -1,4 +1,4 @@
-import{_ as i,a as m,b as p}from"./articleContent.98351f80.js";import{_ as a}from"./title.3ddb9719.js";import{a as _,o as g,c as s,w as c,f as t}from"./entry.0cdaf49b.js";import"./useAsset.9593b5d8.js";import"./mail_red.3563fc5b.js";const l={};function x(b,u){const n=m,r=a,o=p,e=i;return g(),s(e,{type:"star",title:"移居者 / 在地人<br>與基隆的關係",name:`
+import{_ as i,a as m,b as p}from"./articleContent.5c5ec105.js";import{_ as a}from"./title.629f1161.js";import{a as _,o as g,c as s,w as c,f as t}from"./entry.00dab148.js";import"./useAsset.abfb05f1.js";import"./mail_red.57a377c8.js";const l={};function x(b,u){const n=m,r=a,o=p,e=i;return g(),s(e,{type:"star",title:"移居者 / 在地人<br>與基隆的關係",name:`
     `},{default:c(()=>[t(n,{marginTop:"20px",marginBottom:"50px",width:"60%",img:"img/star/person1.png"},null,8,["img"]),t(r,{title:"葉姿辰 / 通勤族 /  23 歲"}),t(o,{text:`
     我小時候跟著阿公阿嬤在市場玩耍，小學在聖心讀書，和同學六年的感情，在上國中時被父母帶去台北讀書那刻起全部消失，開啟每天在人生地不熟的台北通勤的人生！國高中時每天6:30起床到台北讀書，18:00放學回家，更多時候是21:00才放學，基隆像是民宿般的存在，像過客短暫停留。<br><br>
 大學後到出社會比較有自己時間，開始對家鄉有點共鳴，這六年間我重新了解基隆這塊土地與我的連結性，現階段覺得它是個超級好朋友的存在！發現很多是活在台北的人無法擁有的體驗！像是夏天的水上活動，或是騎車10-15分鐘就能擁有一大片海去承載你所有喜怒哀樂！當然也發現自己很喜歡城市裡古今交錯的建築，基隆如果不下雨真的很美！<br><br>
