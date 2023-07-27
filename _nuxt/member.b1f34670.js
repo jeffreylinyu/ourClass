@@ -1,0 +1,1 @@
+import{x as a}from"./entry.467f29c8.js";const s="http://wasupstudionobullying.com/wasupstudio/api/member",o=async(t,e)=>await a.put(`${s}/${t}`,e),r=async t=>await a.get(`${s}/${t}`),u=async()=>await a.get(`${s}`);export{u as a,o as e,r as g};

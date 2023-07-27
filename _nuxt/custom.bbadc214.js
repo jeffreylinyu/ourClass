@@ -1,0 +1,1 @@
+import{_ as o}from"./HeaderStatic.c03bf111.js";import{a as c,k as _,f as s,U as n,o as a}from"./entry.467f29c8.js";import"./nuxt-link.caed5a1b.js";const r={},d={class:"box"};function m(e,p){const t=o;return a(),_("div",d,[s(t),n(e.$slots,"default",{},void 0,!0)])}const l=c(r,[["render",m],["__scopeId","data-v-cac00907"]]);export{l as default};
